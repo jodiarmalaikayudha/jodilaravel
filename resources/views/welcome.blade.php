@@ -23,6 +23,7 @@
     <body class="antialiased">
 
        <h2>tes aja lah </h2>
+       <p>gw cuman coba ini soalnya ga tau mau ngpain </p>
 
     </body>
 </html>
